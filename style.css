@@ -1,0 +1,152 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* .nav_bar{
+    position:;
+    top: 0;
+} */
+
+#navigation-container {
+    position:;
+    background-color: #19b2ff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-family: arial ;
+    padding: 5px 15px;
+    opacity: 0.7;
+}
+
+li {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.img{
+    height: 50px;
+    width: 63px;
+    
+}
+
+.ecomarce-slider{
+    background-color: #cadcf8;
+    height: 300px;
+}
+/* nav bar end  */
+
+
+
+
+.footer{
+    text-align: center;
+    background-color: #F7F7F7;
+    color: grey;
+    padding: 15px;
+    font-weight: 16px;
+}
+
+
+.buttn{
+    font-family:arial ;
+}
+
+.my_custom{
+    height: 150px;
+    border-radius: 10px;
+}
+
+.marg{
+    margin-left: 5px;
+    text-align: center;
+}
+
+
+.alin_custom{
+    margin-left: 108px;
+    font-size: 20px;
+}
+.catetories-img{
+    height: 92px;
+    width: 64px;
+}
+
+.ducati{
+    border: 1px solid #937900;
+    transition: 1.5s;
+}
+.ducati:hover{
+    background-color: #937900;
+    color: white;
+}
+.mastard{
+    border: 1px solid #E78100;
+    transition: 1.5s;
+}
+.mastard:hover{
+    background-color: #E78100;
+    color: white;
+}
+.soyaben{
+    border: 1px solid #FCE000;
+    transition: 1.5s;
+}
+.soyaben:hover{
+    background-color: #FCE000;
+    color: grey;
+}
+.submt{
+    border: 1px solid #1D87E5;
+    transition: 1.5s;
+}
+.submt:hover{
+    background-color: #1D87E5;
+    font-family: inherit;
+    color: #bebfc0;
+}
+
+
+
+.font{
+    font-size: 1.5rem;
+}
+
+.olive_0{
+    height: 147px;
+}
+
+.olive-01{
+    background-color: #B89A01;
+}
+
+.mastard_0{
+    height: 146px;
+}
+
+.mastard_1{
+    background-color: #E88500;
+}
+.soyaben_0{
+    height: 146px;
+}
+
+.soyaben_1{
+    background-color: #C9BD53;
+}
